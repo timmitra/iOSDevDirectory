@@ -651,8 +651,8 @@
           {
             "title": "Becky Hansmeyer’s Blog",
             "author": "Becky Hansmeyer",
-            "site_url": "http://www.beckyhansmeyer.com/",
-            "feed_url": "http://www.beckyhansmeyer.com/category/general/feed/",
+            "site_url": "https://beckyhansmeyer.com/",
+            "feed_url": "https://beckyhansmeyer.com/category/general/feed/",
             "twitter_url": "https://twitter.com/bhansmeyer"
           },
           {
@@ -872,8 +872,8 @@
           {
             "title": "Chris Downie's Blog",
             "author": "Chris Downie",
-            "site_url": "https://chrisdownie.net/",
-            "feed_url": "https://chrisdownie.net/feed.xml",
+            "site_url": "http://ww25.chrisdownie.net/?subid1=20231120-1807-37e3-97d3-24ccbad28893",
+            "feed_url": "http://ww25.chrisdownie.net/feed.xml?subid1=20231120-1807-3739-9a48-e97ae2a7d5f1",
             "twitter_url": "https://twitter.com/cdownie"
           },
           {
@@ -1858,8 +1858,8 @@
           {
             "title": "Hi, I’m Sam",
             "author": "Sam Soffes",
-            "site_url": "https://soffes.com/blog/",
-            "feed_url": "https://soffes.com/blog/rss/",
+            "site_url": "https://soff.es/blog/",
+            "feed_url": "https://soff.es/blog/rss/",
             "twitter_url": "https://twitter.com/soffes"
           },
           {
@@ -1887,7 +1887,7 @@
             "title": "Human Friendly Blog",
             "author": "Joseph Lord",
             "site_url": "https://blog.human-friendly.com",
-            "feed_url": "http://blog.human-friendly.com/posts.atom",
+            "feed_url": "https://blog.human-friendly.com/posts.atom",
             "twitter_url": "https://twitter.com/jl_hfl"
           },
           {
@@ -3839,7 +3839,7 @@
             "title": "SICPERS",
             "author": "Graham Lee",
             "site_url": "https://www.sicpers.info/",
-            "feed_url": "http://www.sicpers.info/feed/",
+            "feed_url": "https://sicpers.info/feed/",
             "twitter_url": "https://twitter.com/iwasleeg"
           },
           {
@@ -5849,7 +5849,7 @@
             "title": "The Swift Community Podcast",
             "author": "Community and John Sundell, Garric Nahapetian, Chris Lattner ",
             "site_url": "https://www.swiftcommunitypodcast.org/",
-            "feed_url": "https://swiftcommunitypodcast.org/?format=rss",
+            "feed_url": "https://www.swiftcommunitypodcast.org/?format=rss",
             "twitter_url": "https://twitter.com/theswiftpodcast"
           },
           {
@@ -6607,8 +6607,8 @@
           {
             "title": "SketchK‘s Studio",
             "author": "SketchK",
-            "site_url": "https://www.sketchk.xyz/",
-            "feed_url": "https://www.sketchk.xyz/atom.xml",
+            "site_url": "https://sketchk.xyz/",
+            "feed_url": "https://sketchk.xyz/atom.xml",
             "twitter_url": "https://twitter.com/SketchK_47"
           },
           {
@@ -6971,8 +6971,8 @@
           {
             "title": "S.T.H Brewery 鍵盤藍綠藻",
             "author": "ShihTing Huang",
-            "site_url": "https://huangshihting.works/blog",
-            "feed_url": "https://huangshihting.works/blog/rss",
+            "site_url": "https://huangshihting.works/blog/",
+            "feed_url": "https://huangshihting.works/blog/rss/",
             "twitter_url": "https://twitter.com/KoromikoNeo"
           },
           {
