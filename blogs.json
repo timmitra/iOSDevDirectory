@@ -3286,8 +3286,8 @@
           {
             "title": "Ordinary Coding",
             "author": "Artur Rymarz",
-            "site_url": "https://ordinarycoding.com",
-            "feed_url": "https://ordinarycoding.com/feed.rss",
+            "site_url": "http://ww17.ordinarycoding.com/",
+            "feed_url": "http://ww17.ordinarycoding.com/feed.rss",
             "twitter_url": "https://twitter.com/artrmzx"
           },
           {
@@ -4960,7 +4960,7 @@
             "title": "ASO Stack on Medium",
             "author": "ASO Stack team",
             "site_url": "https://phiture.com/asostack/",
-            "feed_url": "https://phiture.com/asostack/feed/",
+            "feed_url": "https://phiture.com/asostack/",
             "twitter_url": "https://twitter.com/phituregrowth"
           },
           {
