@@ -3286,8 +3286,8 @@
           {
             "title": "Ordinary Coding",
             "author": "Artur Rymarz",
-            "site_url": "https://ordinarycoding.com",
-            "feed_url": "https://ordinarycoding.com/feed.rss",
+            "site_url": "http://ww25.ordinarycoding.com/?subid1=20240125-1812-2609-86f0-390182128c60",
+            "feed_url": "http://ww25.ordinarycoding.com/feed.rss?subid1=20240125-1812-26b5-9cc5-a73bdb0872fe",
             "twitter_url": "https://twitter.com/artrmzx"
           },
           {
@@ -3727,8 +3727,8 @@
           {
             "title": "rx_marin",
             "author": "Marin Todorov",
-            "site_url": "http://rx-marin.com/",
-            "feed_url": "http://rx-marin.com/index.xml",
+            "site_url": "https://rx-marin.com/",
+            "feed_url": "https://rx-marin.com/index.xml",
             "twitter_url": "https://twitter.com/icanzilb"
           },
           {
@@ -4882,8 +4882,8 @@
           {
             "title": "Sahand Nayebaziz's Blog",
             "author": "Sahand Nayebaziz",
-            "site_url": "https://www.sahandnayebaziz.org",
-            "feed_url": "https://www.sahandnayebaziz.org/rss.xml",
+            "site_url": "https://sahandnayebaziz.org/",
+            "feed_url": "https://sahandnayebaziz.org/rss.xml",
             "twitter_url": "https://twitter.com/sahandnayebaziz"
           },
           {
@@ -4960,7 +4960,7 @@
             "title": "ASO Stack on Medium",
             "author": "ASO Stack team",
             "site_url": "https://phiture.com/asostack/",
-            "feed_url": "https://phiture.com/asostack/feed/",
+            "feed_url": "https://phiture.com/asostack/",
             "twitter_url": "https://twitter.com/phituregrowth"
           },
           {
@@ -5788,7 +5788,7 @@
             "title": "iOS Dev Break",
             "author": "Evan K. Stone",
             "site_url": "https://www.iosdevbreak.com/",
-            "feed_url": "https://iosdevbreak.libsyn.com/rss",
+            "feed_url": "https://feeds.transistor.fm/ios-dev-break",
             "twitter_url": "https://twitter.com/iosdevbreak"
           },
           {
@@ -5807,7 +5807,7 @@
           {
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
-            "site_url": "http://www.mtjc.fm",
+            "site_url": "https://www.mtjc.fm/",
             "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
@@ -5925,8 +5925,8 @@
           {
             "title": "iOS CI Newsletter",
             "author": "Pol Piella Abadia",
-            "site_url": "https://www.polpiella.dev/newsletter",
-            "feed_url": "https://www.polpiella.dev/newsletter/rss.xml",
+            "site_url": "https://www.ioscinewsletter.com",
+            "feed_url": "https://www.ioscinewsletter.com/issues/rss.xml",
             "twitter_url": "https://twitter.com/polpielladev"
           },
           {
