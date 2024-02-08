@@ -1254,7 +1254,7 @@
             "title": "David Seek’s Blog",
             "author": "David Seek and Ting Becker",
             "site_url": "https://www.davidseek.com",
-            "feed_url": "https://www.davidseek.com/rss/",
+            "feed_url": "https://www.davidseek.com/_feather/rss.xml",
             "twitter_url": "https://twitter.com/davidseek"
           },
           {
@@ -3286,8 +3286,8 @@
           {
             "title": "Ordinary Coding",
             "author": "Artur Rymarz",
-            "site_url": "https://ordinarycoding.com",
-            "feed_url": "https://ordinarycoding.com/feed.rss",
+            "site_url": "http://ww25.ordinarycoding.com/?subid1=20240208-1812-474e-b67b-d53bcb137b60",
+            "feed_url": "http://ww25.ordinarycoding.com/feed.rss?subid1=20240208-1812-484f-a69e-70d4bf2748c8",
             "twitter_url": "https://twitter.com/artrmzx"
           },
           {
@@ -3727,8 +3727,8 @@
           {
             "title": "rx_marin",
             "author": "Marin Todorov",
-            "site_url": "http://rx-marin.com/",
-            "feed_url": "http://rx-marin.com/index.xml",
+            "site_url": "https://rx-marin.com/",
+            "feed_url": "https://rx-marin.com/index.xml",
             "twitter_url": "https://twitter.com/icanzilb"
           },
           {
@@ -4138,8 +4138,8 @@
           {
             "title": "Swift Package Index Blog",
             "author": "Dave Verwer and Sven A. Schmidt",
-            "site_url": "https://blog.swiftpackageindex.com",
-            "feed_url": "https://blog.swiftpackageindex.com/feed.rss",
+            "site_url": "https://swiftpackageindex.com/blog",
+            "feed_url": "https://swiftpackageindex.com/blog/feed.xml",
             "twitter_url": "https://twitter.com/SwiftPackages",
             "mastodon_url": "https://mas.to/@SwiftPackageIndex"
           },
@@ -4882,8 +4882,8 @@
           {
             "title": "Sahand Nayebaziz's Blog",
             "author": "Sahand Nayebaziz",
-            "site_url": "https://www.sahandnayebaziz.org",
-            "feed_url": "https://www.sahandnayebaziz.org/rss.xml",
+            "site_url": "https://sahandnayebaziz.org/",
+            "feed_url": "https://sahandnayebaziz.org/rss.xml",
             "twitter_url": "https://twitter.com/sahandnayebaziz"
           },
           {
@@ -4960,7 +4960,7 @@
             "title": "ASO Stack on Medium",
             "author": "ASO Stack team",
             "site_url": "https://phiture.com/asostack/",
-            "feed_url": "https://phiture.com/asostack/feed/",
+            "feed_url": "https://phiture.com/asostack/",
             "twitter_url": "https://twitter.com/phituregrowth"
           },
           {
@@ -5043,7 +5043,7 @@
           {
             "title": "47 Degrees Blog",
             "author": "47 Degrees",
-            "site_url": "https://www.47deg.com/blog/",
+            "site_url": "https://xebia.com/blog/?utm_source=47deg&utm_medium=redirect&utm_campaign=consolidation&utm_content=blog",
             "feed_url": "https://www.47deg.com/feed.xml",
             "twitter_url": "https://twitter.com/47deg"
           },
@@ -5343,7 +5343,7 @@
           {
             "title": "Ideamotive Blog - iOS",
             "author": "Ideamotive Team",
-            "site_url": "https://www.ideamotive.co/blog/tag/ios-development",
+            "site_url": "https://www.ideamotive.co/blog",
             "feed_url": "https://www.ideamotive.co/blog/tag/ios-development/rss.xml",
             "twitter_url": "https://twitter.com/ideamotive_co"
           },
@@ -5549,8 +5549,8 @@
           {
             "title": "Runtastic Tech Blog",
             "author": "Runtastic iOS Devs",
-            "site_url": "https://www.runtastic.com/blog/en/tag/ios/",
-            "feed_url": "https://www.runtastic.com/blog/en/tag/ios/feed/",
+            "site_url": "https://www.runtastic.com/blog/en/tag/ios",
+            "feed_url": "https://www.runtastic.com/blog/en/tag/ios/feed",
             "twitter_url": "https://twitter.com/Runtastic"
           },
           {
@@ -5788,7 +5788,7 @@
             "title": "iOS Dev Break",
             "author": "Evan K. Stone",
             "site_url": "https://www.iosdevbreak.com/",
-            "feed_url": "https://iosdevbreak.libsyn.com/rss",
+            "feed_url": "https://feeds.transistor.fm/ios-dev-break",
             "twitter_url": "https://twitter.com/iosdevbreak"
           },
           {
@@ -5807,7 +5807,7 @@
           {
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
-            "site_url": "http://www.mtjc.fm",
+            "site_url": "https://www.mtjc.fm/",
             "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
@@ -5925,8 +5925,8 @@
           {
             "title": "iOS CI Newsletter",
             "author": "Pol Piella Abadia",
-            "site_url": "https://www.polpiella.dev/newsletter",
-            "feed_url": "https://www.polpiella.dev/newsletter/rss.xml",
+            "site_url": "https://www.ioscinewsletter.com",
+            "feed_url": "https://www.ioscinewsletter.com/issues/rss.xml",
             "twitter_url": "https://twitter.com/polpielladev"
           },
           {
