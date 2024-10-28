@@ -425,8 +425,8 @@
           {
             "title": "Andy Matuschak’s Blog",
             "author": "Andy Matuschak",
-            "site_url": "https://blog.andymatuschak.org/",
-            "feed_url": "https://blog.andymatuschak.org/rss",
+            "site_url": "http://blog.andymatuschak.org/",
+            "feed_url": "http://blog.andymatuschak.org/rss",
             "twitter_url": "https://twitter.com/andy_matuschak"
           },
           {
@@ -3329,7 +3329,7 @@
           {
             "title": "Noah Gilmore’s Blog",
             "author": "Noah Gilmore",
-            "site_url": "https://noahgilmore.com/blog/tags/ios/",
+            "site_url": "https://noahgilmore.com/blog/tags/ios",
             "feed_url": "https://noahgilmore.com/blog/ios.xml",
             "twitter_url": "https://twitter.com/noahsark769"
           },
@@ -5658,8 +5658,8 @@
           {
             "title": "Inside PSPDFKit",
             "author": "PSPDFKit Team",
-            "site_url": "https://pspdfkit.com/blog/",
-            "feed_url": "https://pspdfkit.com/blog/feed.atom",
+            "site_url": "https://www.nutrient.io/blog/",
+            "feed_url": "https://www.nutrient.io/sdk",
             "twitter_url": "https://twitter.com/pspdfkit"
           },
           {
@@ -6081,7 +6081,7 @@
           {
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
-            "site_url": "https://www.morethanjustcode.com",
+            "site_url": "https://morethanjustcode.com/",
             "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
@@ -6257,8 +6257,8 @@
           {
             "title": "iOS Stack Weekly",
             "author": "Jimmy Sanghani",
-            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly",
-            "feed_url": "https://blog.canopas.com/feed/tagged/canopas-ios-weekly",
+            "site_url": "https://canopas.com/tagged/canopas-ios-weekly",
+            "feed_url": "https://canopas.com/feed/tagged/canopas-ios-weekly",
             "twitter_url": "https://twitter.com/canopassoftware"
           },
           {
@@ -7568,14 +7568,14 @@
           {
             "title": "DoorDash Engineering Blog",
             "author": "DoorDash Engineering Team",
-            "site_url": "https://careers.doordash.com/blog/?category=Mobile",
+            "site_url": "https://careersatdoordash.com/blog/?category=Mobile",
             "feed_url": "https://doordash.engineering/category/mobile/feed/",
             "twitter_url": "https://twitter.com/doordasheng"
           },
           {
             "title": "Fullstacktuts Blog",
             "author": "Gwinyai Nyatsoka",
-            "site_url": "https://fullstacktuts.com/blog",
+            "site_url": "https://www.fullstacktuts.com/blog",
             "feed_url": "https://www.fullstacktuts.com/blog.rss"
           },
           {
