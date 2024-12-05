@@ -1112,8 +1112,8 @@
           {
             "title": "Collin Donnell’s Blog",
             "author": "Collin Donnell",
-            "site_url": "https://collindonnell.com/",
-            "feed_url": "https://collindonnell.com/feed/",
+            "site_url": "https://collin.blog/",
+            "feed_url": "https://collin.blog/feed/",
             "twitter_url": "https://twitter.com/collindonnell",
             "mastodon_url": "https://ruby.social/@collin"
           },
@@ -3329,7 +3329,7 @@
           {
             "title": "Noah Gilmore’s Blog",
             "author": "Noah Gilmore",
-            "site_url": "https://noahgilmore.com/blog/tags/ios/",
+            "site_url": "https://noahgilmore.com/blog/tags/ios",
             "feed_url": "https://noahgilmore.com/blog/ios.xml",
             "twitter_url": "https://twitter.com/noahsark769"
           },
@@ -4775,8 +4775,8 @@
           {
             "title": "Tuist's blog",
             "author": "Tuist",
-            "site_url": "https://tuist.io/",
-            "feed_url": "https://tuist.io/rss.xml",
+            "site_url": "https://tuist.dev/",
+            "feed_url": "https://tuist.dev/rss.xml",
             "twitter_url": "https://twitter.com/tuistio",
             "mastodon_url": "https://fosstodon.org/@tuist"
           },
@@ -4911,8 +4911,8 @@
           {
             "title": "Wan Ahmad Lutfi's blog",
             "author": "Wan Ahmad Lutfi",
-            "site_url": "https://wanlutfi.dev/blog/",
-            "feed_url": "https://wanlutfi.dev/blog/feed/",
+            "site_url": "https://wanlutfi.dev/cgi-sys/suspendedpage.cgi",
+            "feed_url": "https://wanlutfi.dev/cgi-sys/suspendedpage.cgi",
             "twitter_url": "https://twitter.com/wlufi"
           },
           {
@@ -5515,8 +5515,8 @@
           {
             "title": "The Distance – iOS Posts",
             "author": "The Distance",
-            "site_url": "https://thedistance.co.uk/category/ios/",
-            "feed_url": "https://thedistance.co.uk/category/ios/feed/",
+            "site_url": "https://thedistance.co.uk/category/ios",
+            "feed_url": "https://thedistance.co.uk/category/ios/feed",
             "twitter_url": "https://twitter.com/thedistancehq"
           },
           {
@@ -5658,8 +5658,8 @@
           {
             "title": "Inside PSPDFKit",
             "author": "PSPDFKit Team",
-            "site_url": "https://pspdfkit.com/blog/",
-            "feed_url": "https://pspdfkit.com/blog/feed.atom",
+            "site_url": "https://www.nutrient.io/blog/",
+            "feed_url": "https://www.nutrient.io/sdk",
             "twitter_url": "https://twitter.com/pspdfkit"
           },
           {
@@ -6081,7 +6081,7 @@
           {
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
-            "site_url": "https://www.morethanjustcode.com",
+            "site_url": "https://morethanjustcode.com/",
             "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
@@ -6129,7 +6129,7 @@
           {
             "title": "Swift over Coffee",
             "author": "Paul Hudson and Sean Allen",
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "site_url": "https://creators.spotify.com/pod/show/swiftovercoffee",
             "twitter_url": "https://twitter.com/swiftovercoffee",
             "feed_url": "https://anchor.fm/s/572fc68/podcast/rss"
           },
@@ -6257,8 +6257,8 @@
           {
             "title": "iOS Stack Weekly",
             "author": "Jimmy Sanghani",
-            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly",
-            "feed_url": "https://blog.canopas.com/feed/tagged/canopas-ios-weekly",
+            "site_url": "https://canopas.com/tagged/canopas-ios-weekly",
+            "feed_url": "https://canopas.com/feed/tagged/canopas-ios-weekly",
             "twitter_url": "https://twitter.com/canopassoftware"
           },
           {
@@ -6322,7 +6322,7 @@
           {
             "title": "XR World Weekly",
             "author": "思琦(@SwiftSIQI)",
-            "site_url": "https://xreality.zone/en/tags/newsletter/",
+            "site_url": "https://xreality.zone/en/newsletter",
             "feed_url": "https://xreality.zone/feed.xml",
             "twitter_url": "https://twitter.com/XRealityZone"
           }
@@ -7305,7 +7305,7 @@
           {
             "title": "Let Swift Podcast",
             "author": "Angel Morales K & Pitt",
-            "site_url": "https://podcasters.spotify.com/pod/show/let-swift-podcast",
+            "site_url": "https://creators.spotify.com/pod/show/let-swift-podcast",
             "twitter_url": "https://twitter.com/letswiftpodcast",
             "feed_url": "https://anchor.fm/s/138e2bb0/podcast/rss"
           },
@@ -7568,14 +7568,14 @@
           {
             "title": "DoorDash Engineering Blog",
             "author": "DoorDash Engineering Team",
-            "site_url": "https://careers.doordash.com/blog/?category=Mobile",
+            "site_url": "https://careersatdoordash.com/blog/?category=Mobile",
             "feed_url": "https://doordash.engineering/category/mobile/feed/",
             "twitter_url": "https://twitter.com/doordasheng"
           },
           {
             "title": "Fullstacktuts Blog",
             "author": "Gwinyai Nyatsoka",
-            "site_url": "https://fullstacktuts.com/blog",
+            "site_url": "https://www.fullstacktuts.com/blog",
             "feed_url": "https://www.fullstacktuts.com/blog.rss"
           },
           {
